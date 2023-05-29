@@ -1,9 +1,5 @@
-
-
-
-# Password Generator 
 [Screenshot (5)](https://user-images.githubusercontent.com/127361245/233871091-48874f8e-a77d-45de-b7f9-1cb8e8eae6d5.png)
-
+# Password Generator 
 ## Description
 An app that provides a safe , randomly generated password for everyday use
 See deployed application: https://sparkkyjd.github.io/password-generator/
