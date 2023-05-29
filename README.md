@@ -12,6 +12,7 @@ See deployed application: https://sparkkyjd.github.io/password-generator/
 - [Screenshot](#Screenshot)
 - 
 ## Screenshot <a name="Screenshot"></a>
+![Screenshot (5)](https://github.com/SparkkyJD/password-generator/assets/127361245/a9efcf90-1719-4e0c-97b6-a6fd59123258)
 
 ## Installation <a name="installation"></a>
 Clone repo
