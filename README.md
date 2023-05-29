@@ -1,7 +1,6 @@
-[Screenshot (5)](https://user-images.githubusercontent.com/127361245/233871091-48874f8e-a77d-45de-b7f9-1cb8e8eae6d5.png)
 # Password Generator 
 ## Description
-An app that provides a safe , randomly generated password for everyday use
+An app that provides a safe , randomly generated password for everyday use <br>
 See deployed application: https://sparkkyjd.github.io/password-generator/
 
 ## Table of Contents
@@ -10,10 +9,12 @@ See deployed application: https://sparkkyjd.github.io/password-generator/
 - [Contribution Guidelines](#contribution-guidelines)
 - [Questions](#questions)
 - [License Type](#license-type)
-
+- [Screenshot](#Screenshot)
+- 
+## Screenshot <a name="Screenshot"></a>
 
 ## Installation <a name="installation"></a>
-CLone repo
+Clone repo
 
 
 ## Usage Instructions <a name="usage"></a>
